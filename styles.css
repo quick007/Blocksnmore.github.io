@@ -1,0 +1,30 @@
+/*
+* Developed by Blocks_n_more 
+* If you're here to just steal my code please don't
+* I spent alot of time working on this. Please ask for someone to develop you a site if you need the html/css
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;900&display=swap');
+body{
+  background: black;
+  color: white;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+.top{
+    padding: 20px 0;
+    font-size: 50px;
+}
+.description{
+    font-size: 25px;
+}
+.button {
+    border: 2px solid rgb(54, 54, 54);
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding: 15px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.button:hover{
+    border: 2px solid rgb(97, 97, 97);
+}
