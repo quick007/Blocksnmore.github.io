@@ -1,0 +1,407 @@
+{
+  "souls": [
+    { "location": { "x": -80, "y": 70, "z": -87 }, "name": "Hub #1" },
+    { "location": { "x": 72, "y": 70, "z": -97 }, "name": "Hub #2" },
+    { "location": { "x": -48, "y": 90, "z": -71 }, "name": "Hub #3" },
+    { "location": { "x": -50, "y": 70, "z": -101 }, "name": "Hub #4" },
+    { "location": { "x": 38, "y": 68, "z": -65 }, "name": "Hub #5" },
+    {
+      "location": { "x": 23, "y": 79, "z": -133 },
+      "name": "Hub #6 Replacement A"
+    },
+    { "location": { "x": -19, "y": 90, "z": -11 }, "name": "Hub #7" },
+    {
+      "location": { "x": 25, "y": 80, "z": -64 },
+      "name": "Hub #8 Replacement B"
+    },
+    {
+      "location": { "x": -16, "y": 64, "z": -109 },
+      "name": "Hub #9 Replacement C"
+    },
+    { "location": { "x": -23, "y": 88, "z": -62 }, "name": "Hub #10" },
+    { "location": { "x": 44, "y": 69, "z": -35 }, "name": "Hub #11" },
+    { "location": { "x": 154, "y": 98, "z": -70 }, "name": "Hub #12" },
+    { "location": { "x": 168, "y": 59, "z": -36 }, "name": "Hub #13" },
+    { "location": { "x": 104, "y": 77, "z": -132 }, "name": "Hub #14" },
+    { "location": { "x": 110, "y": 67, "z": 58 }, "name": "Hub #15" },
+    { "location": { "x": 138, "y": 66, "z": 129 }, "name": "Hub #16" },
+    { "location": { "x": 132, "y": 144, "z": 114 }, "name": "Hub #17" },
+    { "location": { "x": 111, "y": 120, "z": 127 }, "name": "Hub #18" },
+    { "location": { "x": 148, "y": 112, "z": 88 }, "name": "Hub #19" },
+    { "location": { "x": 149, "y": 116, "z": 115 }, "name": "Hub #20" },
+    { "location": { "x": 113, "y": 102, "z": 106 }, "name": "Hub #21" },
+    { "location": { "x": 96, "y": 106, "z": 121 }, "name": "Hub #22" },
+    { "location": { "x": 87, "y": 77, "z": 43 }, "name": "Hub #23" },
+    { "location": { "x": 86, "y": 89, "z": 66 }, "name": "Hub #24" },
+    { "location": { "x": 82, "y": 61, "z": 196 }, "name": "Hub #25" },
+    { "location": { "x": 180, "y": 64, "z": -15 }, "name": "Hub #26" },
+    { "location": { "x": 169, "y": 60, "z": 129 }, "name": "Hub #27" },
+    { "location": { "x": -141, "y": 77, "z": -30 }, "name": "Hub #28" },
+    { "location": { "x": -225, "y": 72, "z": -20 }, "name": "Hub #29" },
+    { "location": { "x": -208, "y": 70, "z": -79 }, "name": "Hub #30" },
+    { "location": { "x": -31, "y": 71, "z": 21 }, "name": "Hub #31" },
+    { "location": { "x": 7, "y": 75, "z": 13 }, "name": "Hub #32" },
+    { "location": { "x": -47, "y": 76, "z": 47 }, "name": "Hub #33" },
+    { "location": { "x": -59, "y": 108, "z": 3 }, "name": "Hub #34" },
+    { "location": { "x": -56, "y": 115, "z": 28 }, "name": "Hub #35" },
+    { "location": { "x": -49, "y": 132, "z": 32 }, "name": "Hub #36" },
+    { "location": { "x": 22, "y": 132, "z": 25 }, "name": "Hub #37" },
+    { "location": { "x": -52, "y": 161, "z": 43 }, "name": "Hub #38" },
+    { "location": { "x": 11, "y": 178, "z": 22 }, "name": "Hub #39" },
+    { "location": { "x": 2, "y": 181, "z": 31 }, "name": "Hub #40" },
+    { "location": { "x": -38, "y": 191, "z": 34 }, "name": "Hub #41" },
+    { "location": { "x": -3, "y": 192, "z": 32 }, "name": "Hub #42" },
+    { "location": { "x": 57, "y": 90, "z": 79 }, "name": "Hub #43" },
+    { "location": { "x": 48, "y": 78, "z": 81 }, "name": "Hub #44" },
+    { "location": { "x": 43, "y": 120, "z": 70 }, "name": "Hub #45" },
+    { "location": { "x": 49, "y": 121, "z": 69 }, "name": "Hub #46" },
+    { "location": { "x": 40, "y": 108, "z": 78 }, "name": "Hub #47" },
+    { "location": { "x": 43, "y": 152, "z": 73 }, "name": "Hub #48" },
+    { "location": { "x": -95, "y": 72, "z": -130 }, "name": "Hub #49" },
+    { "location": { "x": -187, "y": 92, "z": -104 }, "name": "Hub #50" },
+    { "location": { "x": -32, "y": 76, "z": -212 }, "name": "Hub #51" },
+    { "location": { "x": 155, "y": 62, "z": 28 }, "name": "Hub #52" },
+    { "location": { "x": 176, "y": 64, "z": 42 }, "name": "Hub #53" },
+    { "location": { "x": 162, "y": 45, "z": 69 }, "name": "Hub #54" },
+    { "location": { "x": 147, "y": 53, "z": 88 }, "name": "Hub #55" },
+    { "location": { "x": 73, "y": 71, "z": -189 }, "name": "Hub #56" },
+    { "location": { "x": 69, "y": 89, "z": -149 }, "name": "Hub #57" },
+    { "location": { "x": 34, "y": 72, "z": -161 }, "name": "Hub #58" },
+    { "location": { "x": -228, "y": 123, "z": 84 }, "name": "Hub #59" },
+    { "location": { "x": -207, "y": 101, "z": 66 }, "name": "Hub #60" },
+    { "location": { "x": -258, "y": 115, "z": 86 }, "name": "Hub #61" },
+    { "location": { "x": -261, "y": 102, "z": 66 }, "name": "Hub #62" },
+    { "location": { "x": -251, "y": 132, "z": 51 }, "name": "Hub #63" },
+    { "location": { "x": -260, "y": 96, "z": 48 }, "name": "Hub #64" },
+    { "location": { "x": -232, "y": 86, "z": 84 }, "name": "Hub #65" },
+    { "location": { "x": -214, "y": 102, "z": 88 }, "name": "Hub #66" },
+    { "location": { "x": -195, "y": 55, "z": 153 }, "name": "Hub #67" },
+    { "location": { "x": -244, "y": 75, "z": 149 }, "name": "Hub #68" },
+    { "location": { "x": -151, "y": 67, "z": 123 }, "name": "Hub #69" },
+    { "location": { "x": -260, "y": 56, "z": 115 }, "name": "Hub #70" },
+    { "location": { "x": -132, "y": 73, "z": 132 }, "name": "Hub #71" },
+    { "location": { "x": -190, "y": 102, "z": 109 }, "name": "Hub #72" },
+    { "location": { "x": -182, "y": 80, "z": 29 }, "name": "Hub #73" },
+    { "location": { "x": -164, "y": 79, "z": 93 }, "name": "Hub #74" },
+    { "location": { "x": -247, "y": 74, "z": 125 }, "name": "Hub #75" },
+    { "location": { "x": -3, "y": 65, "z": -176 }, "name": "Hub #76" },
+    { "location": { "x": -20, "y": 79, "z": -165 }, "name": "Hub #77" },
+    { "location": { "x": -32, "y": 67, "z": -156 }, "name": "Hub #78" },
+    { "location": { "x": -91, "y": 59, "z": -137 }, "name": "Hub #79" },
+    { "location": { "x": 182, "y": 99, "z": -235 }, "name": "Barn #1" },
+    { "location": { "x": 96, "y": 96, "z": -287 }, "name": "Barn #2" },
+    { "location": { "x": 143, "y": 90, "z": -242 }, "name": "Barn #3" },
+    { "location": { "x": 99, "y": 112, "z": -274 }, "name": "Barn #4" },
+    { "location": { "x": 183, "y": 99, "z": -304 }, "name": "Barn #5" },
+    { "location": { "x": 126, "y": 91, "z": -303 }, "name": "Barn #6" },
+    { "location": { "x": 157, "y": 23, "z": -202 }, "name": "Barn #7" },
+    {
+      "location": { "x": 214, "y": 86, "z": -409 },
+      "name": "Mushroom Desert #1"
+    },
+    {
+      "location": { "x": 169, "y": 73, "z": -382 },
+      "name": "Mushroom Desert #2"
+    },
+    {
+      "location": { "x": 221, "y": 88, "z": -419 },
+      "name": "Mushroom Desert #3"
+    },
+    {
+      "location": { "x": 228, "y": 115, "z": -399 },
+      "name": "Mushroom Desert #4"
+    },
+    {
+      "location": { "x": 217, "y": 94, "z": -365 },
+      "name": "Mushroom Desert #5"
+    },
+    {
+      "location": { "x": 150, "y": 82, "z": -370 },
+      "name": "Mushroom Desert #6"
+    },
+    {
+      "location": { "x": 198, "y": 61, "z": -342 },
+      "name": "Mushroom Desert #7"
+    },
+    {
+      "location": { "x": 135, "y": 63, "z": -381 },
+      "name": "Mushroom Desert #8"
+    },
+    { "location": { "x": 22, "y": 36, "z": -318 }, "name": "Gold Mine #1" },
+    { "location": { "x": -18, "y": 142, "z": -363 }, "name": "Gold Mine #2" },
+    { "location": { "x": 18, "y": 57, "z": -339 }, "name": "Gold Mine #3" },
+    { "location": { "x": -36, "y": 78, "z": -308 }, "name": "Gold Mine #4" },
+    { "location": { "x": -46, "y": 75, "z": -297 }, "name": "Gold Mine #5" },
+    { "location": { "x": -61, "y": 104, "z": -288 }, "name": "Gold Mine #6" },
+    { "location": { "x": -43, "y": 99, "z": -342 }, "name": "Gold Mine #7" },
+    { "location": { "x": -25, "y": 94, "z": -339 }, "name": "Gold Mine #8" },
+    { "location": { "x": -22, "y": 114, "z": -351 }, "name": "Gold Mine #9" },
+    { "location": { "x": 18, "y": 87, "z": -310 }, "name": "Gold Mine #10" },
+    { "location": { "x": 0, "y": 80, "z": -336 }, "name": "Gold Mine #11" },
+    { "location": { "x": -10, "y": 76, "z": -396 }, "name": "Gold Mine #12" },
+    { "location": { "x": 9, "y": 170, "z": 44 }, "name": "Deep Caverns #1" },
+    { "location": { "x": 3, "y": 152, "z": 85 }, "name": "Deep Caverns #2" },
+    { "location": { "x": 3, "y": 182, "z": 50 }, "name": "Deep Caverns #3" },
+    { "location": { "x": 72, "y": 167, "z": -11 }, "name": "Deep Caverns #4" },
+    { "location": { "x": -2, "y": 255, "z": -1 }, "name": "Deep Caverns #5" },
+    { "location": { "x": 57, "y": 161, "z": 19 }, "name": "Deep Caverns #6" },
+    { "location": { "x": 29, "y": 149, "z": 16 }, "name": "Deep Caverns #7" },
+    { "location": { "x": -17, "y": 161, "z": 23 }, "name": "Deep Caverns #8" },
+    { "location": { "x": 22, "y": 156, "z": -42 }, "name": "Deep Caverns #9" },
+    { "location": { "x": -34, "y": 127, "z": 28 }, "name": "Deep Caverns #10" },
+    { "location": { "x": 44, "y": 98, "z": 23 }, "name": "Deep Caverns #11" },
+    {
+      "location": { "x": -10, "y": 102, "z": -15 },
+      "name": "Deep Caverns #12"
+    },
+    { "location": { "x": 18, "y": 73, "z": 74 }, "name": "Deep Caverns #13" },
+    { "location": { "x": -39, "y": 73, "z": 1 }, "name": "Deep Caverns #14" },
+    { "location": { "x": 0, "y": 64, "z": 56 }, "name": "Deep Caverns #15" },
+    { "location": { "x": -8, "y": 74, "z": -42 }, "name": "Deep Caverns #16" },
+    { "location": { "x": -20, "y": 25, "z": 71 }, "name": "Deep Caverns #17" },
+    { "location": { "x": -58, "y": 37, "z": 52 }, "name": "Deep Caverns #18" },
+    { "location": { "x": -72, "y": 12, "z": 5 }, "name": "Deep Caverns #19" },
+    { "location": { "x": 2, "y": 14, "z": 51 }, "name": "Deep Caverns #20" },
+    { "location": { "x": -75, "y": 13, "z": 24 }, "name": "Deep Caverns #21" },
+    {
+      "location": { "x": -279, "y": 127, "z": -177 },
+      "name": "Spider's Den #1"
+    },
+    {
+      "location": { "x": -185, "y": 135, "z": -290 },
+      "name": "Spider's Den #2"
+    },
+    {
+      "location": { "x": -147, "y": 78, "z": -299 },
+      "name": "Spider's Den #3"
+    },
+    {
+      "location": { "x": -169, "y": 62, "z": -289 },
+      "name": "Spider's Den #4"
+    },
+    {
+      "location": { "x": -297, "y": 90, "z": -169 },
+      "name": "Spider's Den #5"
+    },
+    {
+      "location": { "x": -309, "y": 63, "z": -185 },
+      "name": "Spider's Den #6"
+    },
+    {
+      "location": { "x": -309, "y": 66, "z": -245 },
+      "name": "Spider's Den #7"
+    },
+    {
+      "location": { "x": -203, "y": 169, "z": -320 },
+      "name": "Spider's Den #8"
+    },
+    {
+      "location": { "x": -222, "y": 74, "z": -361 },
+      "name": "Spider's Den #9"
+    },
+    {
+      "location": { "x": -140, "y": 85, "z": -335 },
+      "name": "Spider's Den #10"
+    },
+    {
+      "location": { "x": -198, "y": 160, "z": -331 },
+      "name": "Spider's Den #11"
+    },
+    {
+      "location": { "x": -160, "y": 62, "z": -275 },
+      "name": "Spider's Den #12"
+    },
+    {
+      "location": { "x": -301, "y": 92, "z": -171 },
+      "name": "Spider's Den #13"
+    },
+    {
+      "location": { "x": -294, "y": 36, "z": -274 },
+      "name": "Spider's Den #14"
+    },
+    {
+      "location": { "x": -204, "y": 94, "z": -241 },
+      "name": "Spider's Den #15"
+    },
+    {
+      "location": { "x": -336, "y": 82, "z": -153 },
+      "name": "Spider's Den #16"
+    },
+    {
+      "location": { "x": -422, "y": 106, "z": -206 },
+      "name": "Spider's Den #17"
+    },
+    {
+      "location": { "x": -322, "y": 95, "z": -281 },
+      "name": "Spider's Den #18"
+    },
+    {
+      "location": { "x": -336, "y": 111, "z": -253 },
+      "name": "Spider's Den #19"
+    },
+    {
+      "location": { "x": -373, "y": 172, "z": -682 },
+      "name": "Blazing Fortress #1"
+    },
+    {
+      "location": { "x": -298, "y": 75, "z": -543 },
+      "name": "Blazing Fortress #2"
+    },
+    {
+      "location": { "x": -320, "y": 78, "z": -503 },
+      "name": "Blazing Fortress #3"
+    },
+    {
+      "location": { "x": -431, "y": 79, "z": -563 },
+      "name": "Blazing Fortress #4"
+    },
+    {
+      "location": { "x": -180, "y": 90, "z": -607 },
+      "name": "Blazing Fortress #5"
+    },
+    {
+      "location": { "x": -308, "y": 146, "z": -426 },
+      "name": "Blazing Fortress #6"
+    },
+    {
+      "location": { "x": -432, "y": 208, "z": -578 },
+      "name": "Blazing Fortress #7"
+    },
+    {
+      "location": { "x": -321, "y": 139, "z": -442 },
+      "name": "Blazing Fortress #8"
+    },
+    {
+      "location": { "x": -372, "y": 136, "z": -397 },
+      "name": "Blazing Fortress #9"
+    },
+    {
+      "location": { "x": -317, "y": 203, "z": -739 },
+      "name": "Blazing Fortress #10"
+    },
+    {
+      "location": { "x": -306, "y": 107, "z": -691 },
+      "name": "Blazing Fortress #11"
+    },
+    {
+      "location": { "x": -312, "y": 96, "z": -401 },
+      "name": "Blazing Fortress #12"
+    },
+    {
+      "location": { "x": -213, "y": 62, "z": -481 },
+      "name": "Blazing Fortress #13"
+    },
+    {
+      "location": { "x": -346, "y": 133, "z": -694 },
+      "name": "Blazing Fortress #14"
+    },
+    {
+      "location": { "x": -385, "y": 104, "z": -461 },
+      "name": "Blazing Fortress #15"
+    },
+    {
+      "location": { "x": -378, "y": 119, "z": -477 },
+      "name": "Blazing Fortress #16"
+    },
+    {
+      "location": { "x": -335, "y": 92, "z": -446 },
+      "name": "Blazing Fortress #17"
+    },
+    {
+      "location": { "x": -235, "y": 85, "z": -591 },
+      "name": "Blazing Fortress #18"
+    },
+    {
+      "location": { "x": -311, "y": 39, "z": -676 },
+      "name": "Blazing Fortress #19"
+    },
+    { "location": { "x": -518, "y": 100, "z": -293 }, "name": "End #1" },
+    { "location": { "x": -581, "y": 208, "z": -272 }, "name": "End #2" },
+    { "location": { "x": -588, "y": 122, "z": -274 }, "name": "End #3" },
+    { "location": { "x": -698, "y": 116, "z": -255 }, "name": "End #4" },
+    { "location": { "x": -586, "y": 48, "z": -292 }, "name": "End #5" },
+    { "location": { "x": -657, "y": 36, "z": -200 }, "name": "End #6" },
+    { "location": { "x": -490, "y": 23, "z": -174 }, "name": "End #7" },
+    { "location": { "x": -489, "y": 79, "z": -274 }, "name": "End #8" },
+    { "location": { "x": -546, "y": 91, "z": -258 }, "name": "End #9" },
+    { "location": { "x": -609, "y": 84, "z": -231 }, "name": "End #10" },
+    { "location": { "x": -720, "y": 76, "z": -220 }, "name": "End #11" },
+    { "location": { "x": -747, "y": 105, "z": -282 }, "name": "End #12" },
+    { "location": { "x": -293, "y": 85, "z": 31 }, "name": "Park #1" },
+    { "location": { "x": -315, "y": 89, "z": -72 }, "name": "Park #2" },
+    { "location": { "x": -390, "y": 60, "z": -5 }, "name": "Park #3" },
+    { "location": { "x": -356, "y": 99, "z": 79 }, "name": "Park #4" },
+    { "location": { "x": -386, "y": 108, "z": -69 }, "name": "Park #5" },
+    { "location": { "x": -403, "y": 136, "z": 6 }, "name": "Park #6" },
+    { "location": { "x": -454, "y": 120, "z": -58 }, "name": "Park #7" },
+    { "location": { "x": -408, "y": 122, "z": -92 }, "name": "Park #8" },
+    { "location": { "x": -451, "y": 113, "z": -87 }, "name": "Park #9" },
+    { "location": { "x": -370, "y": 111, "z": -118 }, "name": "Park #10" },
+    { "location": { "x": -471, "y": 132, "z": -125 }, "name": "Park #11" },
+    {
+      "location": { "x": -94, "y": 77, "z": 20 },
+      "name": "Jerry's Workshop #1"
+    },
+    {
+      "location": { "x": -43, "y": 87, "z": 76 },
+      "name": "Jerry's Workshop #2"
+    },
+    {
+      "location": { "x": -6, "y": 107, "z": 111 },
+      "name": "Jerry's Workshop #3"
+    },
+    {
+      "location": { "x": 56, "y": 108, "z": 64 },
+      "name": "Jerry's Workshop #4"
+    },
+    {
+      "location": { "x": 74, "y": 109, "z": -17 },
+      "name": "Jerry's Workshop #5"
+    },
+    { "location": { "x": 15, "y": 125, "z": -58 }, "name": "Dungeon Hub #1" },
+    { "location": { "x": 2, "y": 135, "z": 75 }, "name": "Dungeon Hub #2" },
+    { "location": { "x": 8, "y": 164, "z": -8 }, "name": "Dungeon Hub #3" },
+    { "location": { "x": -138, "y": 47, "z": -2 }, "name": "Dungeon Hub #4" },
+    { "location": { "x": -55, "y": 85, "z": -9 }, "name": "Dungeon Hub #5" },
+    { "location": { "x": -3, "y": 21, "z": -16 }, "name": "Dungeon Hub #6" },
+    { "location": { "x": 11, "y": 60, "z": 99 }, "name": "Dungeon Hub #7" },
+    {
+      "location": { "x": -9, "y": 229, "z": -135 },
+      "name": "Dwarven Mines #1"
+    },
+    {
+      "location": { "x": 155, "y": 189, "z": 123 },
+      "name": "Dwarven Mines #2"
+    },
+    {
+      "location": { "x": -21, "y": 207, "z": -59 },
+      "name": "Dwarven Mines #3"
+    },
+    {
+      "location": { "x": -139, "y": 219, "z": -89 },
+      "name": "Dwarven Mines #4 (Enter the room at -118,206,-60)"
+    },
+    { "location": { "x": -53, "y": 205, "z": 50 }, "name": "Dwarven Mines #5" },
+    { "location": { "x": 34, "y": 101, "z": 86 }, "name": "Dwarven Mines #6" },
+    {
+      "location": { "x": 133, "y": 103, "z": 104 },
+      "name": "Dwarven Mines #7 (Follow the rails downward after this point)"
+    },
+    {
+      "location": { "x": 22, "y": 126, "z": 184 },
+      "name": "Dwarven Mines #8 (Dirt Guy room by the rails)"
+    },
+    {
+      "location": { "x": -110, "y": 142, "z": 143 },
+      "name": "Dwarven Mines #9"
+    },
+    {
+      "location": { "x": -116, "y": 141, "z": 154 },
+      "name": "Dwarven Mines #10"
+    },
+    {
+      "location": { "x": -204, "y": 130, "z": 199 },
+      "name": "Dwarven Mines #11"
+    }
+  ]
+}
